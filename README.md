@@ -1,8 +1,7 @@
 # Soo you want to learn about Remix.run V2?
 
-[![Remix.run V2 Full Stack Tutorial 2023 | Crash course
-](http://img.youtube.com/vi/Z_33-pco_aA/0.jpg)]([http://www.youtube.com/watch?v=Z_33-pco_aA](https://www.youtube.com/watch?v=Z_33-pco_aA) "Remix.run V2 Full Stack Tutorial 2023 | Crash course
-")
+[![Remix.run V2 Full Stack Tutorial 2023 | Crash course](https://img.youtube.com/vi/Z_33-pco_aA/0.jpg)](https://www.youtube.com/watch?v=Z_33-pco_aA)
+
 
 -------------
 
