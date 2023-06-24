@@ -1,6 +1,21 @@
-# Welcome to Remix!
+# Soo you want to learn about Remix.run V2?
 
-- [Remix Docs](https://remix.run/docs)
+[![Remix.run V2 Full Stack Tutorial 2023 | Crash course
+](http://img.youtube.com/vi/Z_33-pco_aA/0.jpg)]([http://www.youtube.com/watch?v=Z_33-pco_aA](https://www.youtube.com/watch?v=Z_33-pco_aA) "Remix.run V2 Full Stack Tutorial 2023 | Crash course
+")
+
+-------------
+
+
+
+- [Remix.run](https://remix.run/)
+- [Tailwind.css](https://tailwindcss.com/)
+- [The Movie Database](https://www.themoviedb.org/)
+- [Trending Movies Docs](https://developer.themoviedb.org/reference/trending-movies)
+- [Details Docs](https://developer.themoviedb.org/reference/movie-details)
+
+  
+
 
 ## Deployment
 
@@ -32,3 +47,4 @@ npm run dev
 Open up [http://localhost:3000](http://localhost:3000) and you should be ready to go!
 
 If you're used to using the `vercel dev` command provided by [Vercel CLI](https://vercel.com/cli) instead, you can also use that, but it's not needed.
+
